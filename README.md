@@ -1,1 +1,1 @@
-Python Practic Assignment
+Python Practice Assignment
